@@ -1,3 +1,8 @@
+<div aling="center">
+    <h2>This Fork</h2>
+</div>
+<p>The reason for this fork is so that I can play with editting existing character sheets, specifically the Pathfinder Community sheet, and to learn by developing a new sheet for Demon: The Descent, without breaking anybody else's work through my inexperience of working with Github as a shared space.
+</p>
 <div align="center">
     <a href="https://roll20.net">
         <img src="https://raw.githubusercontent.com/Roll20/roll20-character-sheets/master/Roll20%20Logo.png" alt="Roll20 logo" title="Roll20" height="60" />
